@@ -5,7 +5,7 @@ public class Main {
         int skaiciusA = 8;
         int skaiciusB = 4;
 
-        double extraSkaicius = 5.51;
+        double extraSkaicius = 5.58;
 
     }
 }
